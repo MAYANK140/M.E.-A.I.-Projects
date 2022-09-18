@@ -1,4 +1,4 @@
-ex_str = "12321"
+ex_str = "12322"
 rev = ''
 for i in range(len(ex_str)-1,-1,-1):
     rev = rev + ex_str[i]
